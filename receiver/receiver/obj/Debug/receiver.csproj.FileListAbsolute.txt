@@ -1,0 +1,12 @@
+C:\Users\mjm17h\source\repos\receiver\receiver\bin\Debug\receiver.exe.config
+C:\Users\mjm17h\source\repos\receiver\receiver\bin\Debug\receiver.exe
+C:\Users\mjm17h\source\repos\receiver\receiver\bin\Debug\receiver.pdb
+C:\Users\mjm17h\source\repos\receiver\receiver\obj\Debug\receiver.csproj.AssemblyReference.cache
+C:\Users\mjm17h\source\repos\receiver\receiver\obj\Debug\receiver.Properties.Resources.resources
+C:\Users\mjm17h\source\repos\receiver\receiver\obj\Debug\receiver.csproj.GenerateResource.cache
+C:\Users\mjm17h\source\repos\receiver\receiver\obj\Debug\receiver.csproj.CoreCompileInputs.cache
+C:\Users\mjm17h\source\repos\receiver\receiver\obj\Debug\receiver.exe
+C:\Users\mjm17h\source\repos\receiver\receiver\obj\Debug\receiver.pdb
+C:\Users\mjm17h\source\repos\receiver\receiver\obj\Debug\receiver.Form1.resources
+C:\Users\mjm17h\source\repos\receiver\receiver\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\mjm17h\source\repos\receiver\receiver\obj\Debug\receiver.csproj.CopyComplete
