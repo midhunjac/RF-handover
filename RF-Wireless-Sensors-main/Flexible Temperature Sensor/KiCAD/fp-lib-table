@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Gdp_Flexible")(type "KiCad")(uri "/Users/yanjiekee/Documents/KiCad_LIB/Gdp_Flexible")(options "")(descr ""))
+  (lib (name "Footprint Lib")(type "KiCad")(uri "${KIPRJMOD}/Footprint Lib")(options "")(descr ""))
+)

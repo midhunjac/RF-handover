@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PCB_rectenna_withL_Array v2")(type "KiCad")(uri "$(KIPRJMOD)/PCB_rectenna_withL_Array v2.pretty")(options "")(descr ""))
+)

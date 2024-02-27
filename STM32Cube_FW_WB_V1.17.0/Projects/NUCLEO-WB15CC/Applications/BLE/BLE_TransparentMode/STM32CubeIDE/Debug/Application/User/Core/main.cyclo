@@ -1,0 +1,12 @@
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:1679:22:LL_RCC_LSE_SetDriveCapability	1
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:364:22:LL_AHB1_GRP1_EnableClock	1
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	1
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Projects/NUCLEO-WB15CC/Applications/BLE/BLE_TransparentMode/Core/Src/main.c:89:5:main	1
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Projects/NUCLEO-WB15CC/Applications/BLE/BLE_TransparentMode/Core/Src/main.c:147:6:SystemClock_Config	3
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Projects/NUCLEO-WB15CC/Applications/BLE/BLE_TransparentMode/Core/Src/main.c:194:6:PeriphCommonClock_Config	2
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Projects/NUCLEO-WB15CC/Applications/BLE/BLE_TransparentMode/Core/Src/main.c:219:6:MX_IPCC_Init	2
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Projects/NUCLEO-WB15CC/Applications/BLE/BLE_TransparentMode/Core/Src/main.c:245:6:MX_RTC_Init	3
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Projects/NUCLEO-WB15CC/Applications/BLE/BLE_TransparentMode/Core/Src/main.c:287:6:MX_USART1_UART_Init	5
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Projects/NUCLEO-WB15CC/Applications/BLE/BLE_TransparentMode/Core/Src/main.c:333:6:MX_DMA_Init	1
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Projects/NUCLEO-WB15CC/Applications/BLE/BLE_TransparentMode/Core/Src/main.c:352:6:MX_GPIO_Init	1
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Projects/NUCLEO-WB15CC/Applications/BLE/BLE_TransparentMode/Core/Src/main.c:373:6:Error_Handler	1

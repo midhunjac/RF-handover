@@ -1,0 +1,12 @@
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:1513:26:LL_DBGMCU_GetDeviceID	4	static
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:1524:26:LL_DBGMCU_GetRevisionID	4	static
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:2223:26:LL_FLASH_GetUDN	4	static
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:2235:26:LL_FLASH_GetDeviceID	4	static
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:2247:26:LL_FLASH_GetSTCompanyID	4	static
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_utils.h:200:26:LL_GetUID_Word0	4	static
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_utils.h:209:26:LL_GetUID_Word1	4	static
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_utils.h:218:26:LL_GetUID_Word2	4	static
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_utils.h:242:26:LL_GetPackageType	4	static
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/lhci/lhci.c:36:6:LHCI_C1_Write_Register	40	static,ignoring_inline_asm
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/lhci/lhci.c:86:6:LHCI_C1_Read_Register	32	static
+C:/Users/mjm17h/Documents/RF-Wireless-Sensors-main/STM32Cube_FW_WB_V1.17.0/Middlewares/ST/STM32_WPAN/interface/patterns/ble_thread/lhci/lhci.c:126:6:LHCI_C1_Read_Device_Information	32	static

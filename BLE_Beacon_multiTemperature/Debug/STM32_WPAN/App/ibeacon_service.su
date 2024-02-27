@@ -1,0 +1,4 @@
+../STM32_WPAN/App/ibeacon_service.c:83:19:IBeacon_Init	88	static
+../STM32_WPAN/App/ibeacon_service.c:171:6:IBeacon_Process	64	static
+../STM32_WPAN/App/ibeacon_service.c:216:6:initTemp	96	static
+../STM32_WPAN/App/ibeacon_service.c:225:6:updateTemp	120	static

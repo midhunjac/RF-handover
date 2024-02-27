@@ -1,0 +1,4 @@
+../STM32_WPAN/App/ibeacon_service.c:75:19:IBeacon_Init	96	static
+../STM32_WPAN/App/ibeacon_service.c:148:6:IBeacon_Process	64	static
+../STM32_WPAN/App/ibeacon_service.c:193:6:initHandPosition	96	static
+../STM32_WPAN/App/ibeacon_service.c:199:6:getHandPosition	120	static

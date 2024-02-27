@@ -1,0 +1,5 @@
+(version 1)
+(rule Waveguide
+	(layer F.Cu)
+	(condition "A.NetClass == 'Waveguide'")
+	(constraint clearance (min 0.127mm)))

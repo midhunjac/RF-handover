@@ -1,0 +1,4 @@
+../STM32_WPAN/App/ibeacon_service.c:71:19:IBeacon_Init	88	static
+../STM32_WPAN/App/ibeacon_service.c:144:6:IBeacon_Process	64	static
+../STM32_WPAN/App/ibeacon_service.c:189:6:initCadence	88	static
+../STM32_WPAN/App/ibeacon_service.c:197:6:getCadence	40	static

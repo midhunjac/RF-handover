@@ -1,0 +1,17 @@
+../Core/Src/LSM6DSM.c:16:6:LSM6DSM_init	24	static
+../Core/Src/LSM6DSM.c:58:6:LSM6DSM_start_gyro	24	static
+../Core/Src/LSM6DSM.c:78:6:LSM6DSM_stop_gyro	24	static
+../Core/Src/LSM6DSM.c:88:6:LSM6DSM_stop_acc	24	static
+../Core/Src/LSM6DSM.c:104:9:LSM6DSM_ReadID	24	static
+../Core/Src/LSM6DSM.c:124:9:LSM6DSM_getAscale	24	static
+../Core/Src/LSM6DSM.c:154:10:LSM6DSM_getAODR	24	static
+../Core/Src/LSM6DSM.c:194:6:LSM6DSM_setAinfo	24	static
+../Core/Src/LSM6DSM.c:212:10:LSM6DSM_getGscale	24	static
+../Core/Src/LSM6DSM.c:240:10:LSM6DSM_getGODR	24	static
+../Core/Src/LSM6DSM.c:280:6:LSM6DSM_setGinfo	24	static
+../Core/Src/LSM6DSM.c:303:6:LSM6DSM_reset	24	static
+../Core/Src/LSM6DSM.c:329:6:LSM6DSM_readGyro	96	static
+../Core/Src/LSM6DSM.c:404:6:LSM6DSM_selfTest	112	static
+../Core/Src/LSM6DSM.c:455:6:LSM6DSM_setup_int1	24	static
+../Core/Src/LSM6DSM.c:505:6:LSM6DSM_wait_for_Data	88	static
+../Core/Src/LSM6DSM.c:514:9:LSM6DSM_read_status	24	static

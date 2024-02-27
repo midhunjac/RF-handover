@@ -1,0 +1,4 @@
+../STM32_WPAN/App/ibeacon_service.c:70:19:IBeacon_Init	88	static
+../STM32_WPAN/App/ibeacon_service.c:143:6:IBeacon_Process	64	static
+../STM32_WPAN/App/ibeacon_service.c:188:6:compStart	8	static
+../STM32_WPAN/App/ibeacon_service.c:195:6:myFSR	40	static
