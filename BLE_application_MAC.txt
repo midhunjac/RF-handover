@@ -1,0 +1,1 @@
+00:80:E1:21:67:DF is the MAC of BLE device when flashed with any of these applications. These applications configure the device as ibeacon.
