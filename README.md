@@ -5,13 +5,13 @@ Getting started with STM32
 Download STM32CubeProgrammer and STM32CubeIDE. Also download the STM drivers for Windows.
 Use the FTDI cable to flash images.
 FTDI cable to board connections.
-To flash the image, the MCU must be in bootloader mode. To put it in bootloader mode, connect FTDI cable according to the schematics as shown below.
+To flash the image, the MCU must be in bootloader mode. To put it in bootloader mode, connect FTDI cable according to the schematics as shown below.<br>
 
-Red         ----        Power
-Black       ----        Ground
-Yellow      ----        TX
-Orange      ----        RX
-Red         ----        Boot0
+Red         ----        Power<br>
+Black       ----        Ground<br>
+Yellow      ----        TX<br>
+Orange      ----        RX<br>
+Red         ----        Boot0<br>
 
 Boot0 must be pulled high. Additionally, press down the RESET button while plugging in the FTDI cable. Once plugged in, release the RESET button. AT this point, the device is in bootloader mode and the MCU should not be advertising.
 In the STM32CubeProgrammer, change connect mode to UART. Choose the new COM port from the dropdown. Keep everything else at default.If everything is set properly, the programmer should be able to connect to the device properly.
