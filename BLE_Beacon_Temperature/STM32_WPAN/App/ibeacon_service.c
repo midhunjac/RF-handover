@@ -205,14 +205,14 @@ void IBeacon_Process(void)
 }
 /* USER CODE BEGIN FD */
 void initTemp(void) {
-	  //TMP117_set_Configuration(hi2c1,0x03, 0x24, Device_ID);			// 8s continous
+	  TMP117_set_Configuration(hi2c1,0x03, 0x24, Device_ID);			// 8s continous
 
 }
 
 void updateTemp(void) {
 
 	//HAL_RTCEx_DeactivateWakeUpTimer(&hrtc);
-	//temperature_val = TMP117_get_Temperature(hi2c1, Device_ID);
+	temperature_val = TMP117_get_Temperature(hi2c1, Device_ID);
 	tempMSB = temperature_val >> 8;
 	tempLSB = temperature_val & 0xFF;
 	//APP_DBG_MSG("Temperature is %f\n\r",(temperature_val*0.0078));
