@@ -1,10 +1,10 @@
 # RF-Wireless-Sensors
 
-Getting started with STM32
+# Getting started with STM32
 
-Download STM32CubeProgrammer and STM32CubeIDE. Also download the STM drivers for Windows.
-Use the FTDI cable to flash images.
-FTDI cable to board connections.
+Download STM32CubeProgrammer and STM32CubeIDE. Also download the STM drivers for Windows.<br>
+Use the FTDI cable to flash images.<br>
+FTDI cable to board connections.<br>
 To flash the image, the MCU must be in bootloader mode. To put it in bootloader mode, connect FTDI cable according to the schematics as shown below.<br>
 
 Red         ----        Power<br>
